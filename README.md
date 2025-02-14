@@ -1,14 +1,15 @@
-# 03_Produkti
+# BizProposals
 
-This template should help get you started developing with Vue 3 in Vite.
+BizProposals is a web application built with Vue.js that fetches data from an API, displays business companies, and allows users to send new proposals. 
+The application includes an admin panel for managing all proposals, with filtering and sorting options.
 
-## Recommended IDE Setup
+## Technologies
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Vue.js** – For dynamic and interactive user interface  
+- **Bootstrap 5** – For responsive design and modern UI components
+## Data
+- **Data Storage** – Uses **LocalStorage** for storing proposals and user data directly in the browser.  
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
